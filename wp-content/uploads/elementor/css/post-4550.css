@@ -1,0 +1,160 @@
+.elementor-4550 .elementor-element.elementor-element-7622621{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-2cd960f .elementor-spacer-inner{height:40px;}.elementor-4550 .elementor-element.elementor-element-96ecfac{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-8f0ae82{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-6e2dea7{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-c79c14d{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-4fd6683{--e-image-carousel-slides-to-show:1;}.elementor-4550 .elementor-element.elementor-element-c3f83ff{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-319c87e{overflow:visible;}.elementor-4550 .elementor-element.elementor-element-5cfc8b6 .ekit-team-img.profile-header > img{border-radius:50% 50% 50% 50%;}.elementor-4550 .elementor-element.elementor-element-3b4eaef .ekit-team-img.profile-header > img{border-radius:50% 50% 50% 50%;}.elementor-4550 .elementor-element.elementor-element-38896f0 .ekit-team-modal-close{right:10px;color:#656565;}.elementor-4550 .elementor-element.elementor-element-38896f0 .ekit-team-img.profile-header > img{border-radius:50% 50% 50% 50%;}.elementor-4550 .elementor-element.elementor-element-38896f0 .ekit-team-modal-close svg path{stroke:#656565;fill:#656565;}/* Start custom CSS for text-editor, class: .elementor-element-a7065ad */.goal h3{font-size: 24px;margin-bottom: 8px;}
+.goal ul{padding: 0px;}
+.goal ul li{list-style: none; margin-bottom: 8px;    display: flex;}
+.goal ul li i{color: #1a9ec8;
+    margin-right: 5px;
+    float: left;
+    margin-top: 6px;}
+.goal h4{margin-bottom: 8px;font-size: 24px;}
+.goal label{font-weight: 500;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-cb578f5 */.pdf-download{    background: #f9f7f7;
+    padding: 15px;}
+.pdf-download h4{font-size: 22px;}
+.pdf-download ul{padding: 0px;}
+.pdf-download ul li{    margin-left: 20px;}
+.pdf-download ul li a:hover{text-decoration: underline;}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-e85bafd */.process-heading h3{color: #002C47;
+    margin: 0px 0px 10px 0px;
+    font-family: "Cabin", Sans-serif;
+    font-size: 30px;
+    font-weight: 700;    margin-bottom: 15px;
+    line-height: 46px;}
+.process{
+       border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #EBF0F5;
+    padding: 50px 40px 50px 40px;
+}
+.process .process-inner .elementor-icon{float:left;}
+.border-right {
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    border-color: #EBF0F5;
+}
+.padding-left {
+    padding-left: 32px;
+}
+.border-right:after {
+    width: 0;
+    position: absolute;
+    right: -9px;
+    border-left: 9px solid rgba(204, 212, 218, 1) !important;
+    content: "";
+    height: 0;
+    border-top: 9px solid transparent;
+    border-left: 9px solid rgba(255, 91, 46, 0.1);
+    border-bottom: 9px solid transparent;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.process .process-inner h3{color: #002C47;
+    margin: 0px 0px 20px 0px;    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: "Cabin", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;}
+.process h2{    color: #0AC668;float: left;    margin: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;}/* End custom CSS */
+/* Start custom CSS for elementskit-team, class: .elementor-element-5cfc8b6 */.our-values .profile-body{       padding: 35px 35px 0px !important;}
+.our-values .profile-body .profile-title{    font-size: 36px !important;
+    font-weight: 500 !important;
+    line-height:45px !important;
+    margin-bottom: 25px !important;}
+.ekit-wid-con .ekit-team-img.profile-image-card>img {
+    height: 350px;
+    object-fit: cover;
+}
+.project-read-more{margin-top: 20px;}
+.project-read-more a:hover{background: #FFFFFF;
+    color: #002C47;
+    border-color: #FFFFFF;}
+.project-read-more a{font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 20px;
+    border-radius: 100px;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;}
+.our-values .profile-body .profile-title:after{    position: absolute;
+    content: '';
+    left: 36px;
+    bottom: 0;
+    top: 145px;
+    width: 50px;
+    height: 3px;
+    background: #ff5b2e;}
+.our-values .profile-body p{color:#fff;}
+.our-values .profile-body .profile-content{font-size: 18px !important;    margin-top: 45px;}/* End custom CSS */
+/* Start custom CSS for elementskit-team, class: .elementor-element-3b4eaef */.our-values .profile-body{       padding: 35px 35px 0px !important;}
+.our-values .profile-body .profile-title{    font-size: 36px !important;
+    font-weight: 500 !important;
+    line-height:45px !important;
+    margin-bottom: 25px !important;}
+.ekit-wid-con .ekit-team-img.profile-image-card>img {
+    height: 350px;
+    object-fit: cover;
+}
+.project-read-more{margin-top: 20px;}
+.project-read-more a:hover{background: #FFFFFF;
+    color: #002C47;
+    border-color: #FFFFFF;}
+.project-read-more a{font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 20px;
+    border-radius: 100px;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;}
+.our-values .profile-body .profile-title:after{    position: absolute;
+    content: '';
+    left: 36px;
+    bottom: 0;
+    top: 145px;
+    width: 50px;
+    height: 3px;
+    background: #ff5b2e;}
+.our-values .profile-body p{color:#fff;}
+.our-values .profile-body .profile-content{font-size: 18px !important;    margin-top: 45px;}/* End custom CSS */
+/* Start custom CSS for elementskit-team, class: .elementor-element-38896f0 */.our-values .profile-body{       padding: 35px 35px 0px !important;}
+.our-values .profile-body .profile-title{    font-size: 36px !important;
+    font-weight: 500 !important;
+    line-height:45px !important;
+    margin-bottom: 25px !important;}
+.ekit-wid-con .ekit-team-img.profile-image-card>img {
+    height: 350px;
+    object-fit: cover;
+}
+.project-read-more{margin-top: 20px;}
+.project-read-more a:hover{background: #FFFFFF;
+    color: #002C47;
+    border-color: #FFFFFF;}
+.project-read-more a{font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 20px;
+    border-radius: 100px;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;}
+.our-values .profile-body .profile-title:after{    position: absolute;
+    content: '';
+    left: 36px;
+    bottom: 0;
+    top: 145px;
+    width: 50px;
+    height: 3px;
+    background: #ff5b2e;}
+.our-values .profile-body p{color:#fff;}
+.our-values .profile-body .profile-content{font-size: 18px !important;    margin-top: 45px;}/* End custom CSS */

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="63" viewBox="0 0 55 63">
+  <g id="service_iocn4" transform="translate(11.5 15.5)">
+    <path id="Path_18643" data-name="Path 18643" d="M30,46H-10l4-12V10A8,8,0,0,1,2,2H6L8-2,2-14H30L24-2l2,4h4a8,8,0,0,1,8,8V34l4,12Z" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_43" data-name="Line 43" x2="16" transform="translate(8 -2)" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_18644" data-name="Path 18644" d="M16,22H12a4,4,0,0,1-4-4H8a4,4,0,0,1,4-4h8a4,4,0,0,1,4,4h0" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_18645" data-name="Path 18645" d="M16,22h4a4,4,0,0,1,4,4h0a4,4,0,0,1-4,4H12a4,4,0,0,1-4-4H8" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_44" data-name="Line 44" y1="6" transform="translate(16 8)" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Line_45" data-name="Line 45" y1="6" transform="translate(16 30)" fill="none" stroke="#0ac668" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

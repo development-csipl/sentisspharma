@@ -1,0 +1,1622 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Inzox Essentials\n"
+"POT-Creation-Date: 2021-02-04 17:17+0600\n"
+"PO-Revision-Date: 2021-02-04 17:17+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: inzox-essential.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/post-type/post-class.php:30 includes/post-type/post-class.php:81
+msgid "Add New "
+msgstr ""
+
+#: includes/post-type/post-class.php:31 includes/post-type/post-class.php:82
+msgid "Edit "
+msgstr ""
+
+#: includes/post-type/post-class.php:32 includes/post-type/post-class.php:80
+msgid "New "
+msgstr ""
+
+#: includes/post-type/post-class.php:33
+msgid "View "
+msgstr ""
+
+#: includes/post-type/post-class.php:34 includes/post-type/post-class.php:85
+msgid "Search "
+msgstr ""
+
+#: includes/post-type/post-class.php:35 includes/post-type/post-class.php:36
+msgid "No "
+msgstr ""
+
+#: includes/post-type/post-class.php:37 includes/post-type/post-class.php:88
+#: includes/post-type/post-class.php:90
+msgid "Parent "
+msgstr ""
+
+#: includes/post-type/post-class.php:83
+msgid "Update "
+msgstr ""
+
+#: includes/post-type/post-class.php:84
+msgid "Add or remove "
+msgstr ""
+
+#: includes/post-type/post-class.php:86
+msgid "Popular "
+msgstr ""
+
+#: includes/post-type/post-class.php:87
+msgid "All "
+msgstr ""
+
+#: includes/post-type/post-class.php:89
+msgid "Choose from the most used "
+msgstr ""
+
+#: includes/settings/controls.php:7
+msgid "Service Settings"
+msgstr ""
+
+#: includes/settings/controls.php:14
+msgid "Project Settings"
+msgstr ""
+
+#: includes/settings/controls.php:22
+msgid "Service Slug"
+msgstr ""
+
+#: includes/settings/controls.php:30
+msgid "Service Singular Name"
+msgstr ""
+
+#: includes/settings/controls.php:38
+msgid "Service Plural Name"
+msgstr ""
+
+#: includes/settings/controls.php:47
+msgid "Project Slug"
+msgstr ""
+
+#: includes/settings/controls.php:55
+msgid "Project Singular Name"
+msgstr ""
+
+#: includes/settings/controls.php:63
+msgid "Project Plural Name"
+msgstr ""
+
+#: includes/settings/controls.php:72 includes/settings/controls.php:106
+msgid "Category Slug"
+msgstr ""
+
+#: includes/settings/controls.php:80 includes/settings/controls.php:114
+msgid "Category Name"
+msgstr ""
+
+#: includes/settings/controls.php:89 includes/settings/controls.php:123
+msgid "Tags Slug"
+msgstr ""
+
+#: includes/settings/controls.php:97 includes/settings/controls.php:131
+msgid "Tags Name"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:12
+#: includes/widgets/footer-address/widget-class.php:15
+msgid "Inzox footer address"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:119
+msgid "Footer address"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:155
+#: includes/widgets/service-hour/widget-class.php:173
+#: includes/widgets/social/widget-class.php:285
+#: modules/elements/chart/chart.php:370 modules/elements/chart/chart.php:777
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:159
+msgid "Message"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:165
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:171
+#: modules/sticky-content/extend-controls.php:47
+#: modules/sticky-content/module.php:60
+msgid "Mobile"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:177
+msgid "Media icon"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:183
+msgid "Map icon"
+msgstr ""
+
+#: includes/widgets/footer-address/widget-class.php:189
+msgid "Map button"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:15
+msgid "Inzox instagram"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:59
+#: includes/widgets/social/widget-class.php:313
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:74
+#: includes/widgets/recent-post/widget-class.php:117
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:80
+msgid "Log in and get my Access Token and User ID"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:85
+msgid "Access token:"
+msgstr ""
+
+#: includes/widgets/instagram/widget-class.php:90
+msgid "Count:"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:11
+msgid "Recent post with thumbnail"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:14
+msgid "Inzox recent post"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:61
+msgid "thumb"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:80
+msgid "No post avainable"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:103
+msgid "Recent posts"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:121
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/recent-post/widget-class.php:126
+msgid "Post Title Crop:"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:10
+#: includes/widgets/service-hour/widget-class.php:13
+msgid "Inzox Service Hour"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:65
+#: includes/widgets/service-hour/widget-class.php:189
+msgid "Monday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:71
+#: includes/widgets/service-hour/widget-class.php:195
+msgid "Tuesday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:77
+#: includes/widgets/service-hour/widget-class.php:201
+msgid "Wednesday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:83
+#: includes/widgets/service-hour/widget-class.php:207
+msgid "Thursday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:89
+#: includes/widgets/service-hour/widget-class.php:213
+msgid "Friday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:96
+#: includes/widgets/service-hour/widget-class.php:177
+msgid "Saturday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:103
+#: includes/widgets/service-hour/widget-class.php:183
+msgid "Sunday"
+msgstr ""
+
+#: includes/widgets/service-hour/widget-class.php:134
+msgid "Service hour"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:10
+msgid "Inzox Social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:13
+msgid "Inzox social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:203
+msgid "Social"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:289
+msgid "Facebook:"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:295
+msgid "Twitter"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:301
+msgid "Google Plus"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:307
+msgid "Pinterest"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:319
+msgid "Linkedin"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:325
+msgid "behance"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:331
+msgid "flickr"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:337
+msgid "github"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:343
+msgid "soundcloud"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:349
+msgid "skype"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:356
+msgid "stumbleupon"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:362
+msgid "tumblr"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:368
+msgid "vimeo"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:374
+msgid "vine"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:380
+msgid "vk"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:386
+msgid "xing"
+msgstr ""
+
+#: includes/widgets/social/widget-class.php:392
+msgid "yelp"
+msgstr ""
+
+#: modules/elements/chart/chart-handler.php:11
+#: modules/elements/chart/chart.php:443
+msgid "Chart"
+msgstr ""
+
+#: modules/elements/chart/chart.php:23
+msgid "Inzox Chart"
+msgstr ""
+
+#: modules/elements/chart/chart.php:41
+msgid "Data "
+msgstr ""
+
+#: modules/elements/chart/chart.php:50
+msgid "Name"
+msgstr ""
+
+#: modules/elements/chart/chart.php:52 modules/elements/chart/chart.php:63
+msgid "January"
+msgstr ""
+
+#: modules/elements/chart/chart.php:60 modules/elements/chart/chart.php:516
+msgid "Categories"
+msgstr ""
+
+#: modules/elements/chart/chart.php:64
+msgid "February"
+msgstr ""
+
+#: modules/elements/chart/chart.php:65
+msgid "March"
+msgstr ""
+
+#: modules/elements/chart/chart.php:79 modules/elements/chart/chart.php:205
+#: modules/elements/gallery/gallery.php:1374
+msgid "Label"
+msgstr ""
+
+#: modules/elements/chart/chart.php:81 modules/elements/chart/chart.php:171
+#: modules/elements/chart/chart.php:207 modules/elements/chart/chart.php:297
+msgid "Label #1"
+msgstr ""
+
+#: modules/elements/chart/chart.php:87 modules/elements/chart/chart.php:214
+msgid "Data"
+msgstr ""
+
+#: modules/elements/chart/chart.php:91
+msgid "Enter data values by \",\" separated(1). Example: 2,4,8,16,32 etc"
+msgstr ""
+
+#: modules/elements/chart/chart.php:104 modules/elements/chart/chart.php:230
+#: modules/elements/gallery/gallery.php:407
+#: modules/elements/gallery/gallery.php:467
+#: modules/elements/gallery/gallery.php:490
+#: modules/elements/gallery/gallery.php:1041
+#: modules/elements/gallery/gallery.php:1231
+#: modules/elements/gallery/gallery.php:1420
+#: modules/elements/gallery/gallery.php:1576
+#: modules/elements/gallery/gallery.php:1802
+#: modules/elements/gallery/gallery.php:1835
+#: modules/elements/gallery/gallery.php:2590
+#: modules/elements/parallax/section-controls.php:394
+#: modules/elements/parallax/widget-controls.php:136
+msgid "Normal"
+msgstr ""
+
+#: modules/elements/chart/chart.php:110 modules/elements/chart/chart.php:137
+#: modules/elements/chart/chart.php:236 modules/elements/chart/chart.php:263
+#: modules/elements/chart/chart.php:692
+#: modules/elements/gallery/gallery.php:1048
+#: modules/elements/gallery/gallery.php:1123
+#: modules/elements/gallery/gallery.php:1238
+#: modules/elements/gallery/gallery.php:1312
+#: modules/elements/gallery/gallery.php:1427
+#: modules/elements/gallery/gallery.php:1501
+#: modules/elements/gallery/gallery.php:1596
+#: modules/elements/gallery/gallery.php:1745
+#: modules/elements/gallery/gallery.php:2618
+#: modules/elements/gallery/gallery.php:2717
+msgid "Background Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:119 modules/elements/chart/chart.php:145
+#: modules/elements/chart/chart.php:245 modules/elements/chart/chart.php:271
+#: modules/elements/gallery/gallery.php:1147
+#: modules/elements/gallery/gallery.php:1336
+#: modules/elements/gallery/gallery.php:1525
+#: modules/elements/gallery/gallery.php:1757
+#: modules/elements/gallery/gallery.php:2749
+msgid "Border Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:132 modules/elements/chart/chart.php:258
+#: modules/elements/gallery/gallery.php:434
+#: modules/elements/gallery/gallery.php:663
+#: modules/elements/gallery/gallery.php:1116
+#: modules/elements/gallery/gallery.php:1305
+#: modules/elements/gallery/gallery.php:1494
+#: modules/elements/gallery/gallery.php:1725
+#: modules/elements/gallery/gallery.php:1906
+msgid "Hover"
+msgstr ""
+
+#: modules/elements/chart/chart.php:157 modules/elements/chart/chart.php:283
+#: modules/elements/chart/chart.php:503
+msgid "Border Width"
+msgstr ""
+
+#: modules/elements/chart/chart.php:167 modules/elements/chart/chart.php:293
+msgid "Set Data"
+msgstr ""
+
+#: modules/elements/chart/chart.php:178 modules/elements/chart/chart.php:304
+msgid "Label #2"
+msgstr ""
+
+#: modules/elements/chart/chart.php:185 modules/elements/chart/chart.php:311
+msgid "Label #3"
+msgstr ""
+
+#: modules/elements/chart/chart.php:333
+msgid "Settings "
+msgstr ""
+
+#: modules/elements/chart/chart.php:341
+msgid "Chart Styles"
+msgstr ""
+
+#: modules/elements/chart/chart.php:345
+msgid "Bar (Vertical)"
+msgstr ""
+
+#: modules/elements/chart/chart.php:346
+msgid "Bar (Horozontal)"
+msgstr ""
+
+#: modules/elements/chart/chart.php:347
+msgid "Line"
+msgstr ""
+
+#: modules/elements/chart/chart.php:348
+msgid "Radar"
+msgstr ""
+
+#: modules/elements/chart/chart.php:349
+msgid "Doughnut"
+msgstr ""
+
+#: modules/elements/chart/chart.php:350
+msgid "Pie"
+msgstr ""
+
+#: modules/elements/chart/chart.php:351
+msgid "Polar Area"
+msgstr ""
+
+#: modules/elements/chart/chart.php:361
+msgid "Show Title"
+msgstr ""
+
+#: modules/elements/chart/chart.php:383
+msgid "Grid Lines"
+msgstr ""
+
+#: modules/elements/chart/chart.php:392
+msgid "Grid Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:406
+msgid "Enable Label"
+msgstr ""
+
+#: modules/elements/chart/chart.php:417
+msgid "Enable Legends"
+msgstr ""
+
+#: modules/elements/chart/chart.php:427
+msgid "Show Tooltip"
+msgstr ""
+
+#: modules/elements/chart/chart.php:452 modules/elements/chart/chart.php:632
+msgid "Point Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:470
+msgid "Stepped Line"
+msgstr ""
+
+#: modules/elements/chart/chart.php:479
+msgid "Tension"
+msgstr ""
+
+#: modules/elements/chart/chart.php:489
+msgid "Fill"
+msgstr ""
+
+#: modules/elements/chart/chart.php:524 modules/elements/chart/chart.php:584
+#: modules/elements/chart/chart.php:797
+msgid "Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:533 modules/elements/chart/chart.php:593
+#: modules/elements/chart/chart.php:785
+#: modules/elements/gallery/gallery.php:1699
+msgid "Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:546 modules/elements/chart/chart.php:606
+#: modules/elements/chart/chart.php:806
+msgid "Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:559 modules/elements/chart/chart.php:619
+#: modules/elements/chart/chart.php:846
+#: modules/elements/gallery/gallery.php:1027
+#: modules/elements/gallery/gallery.php:1217
+#: modules/elements/gallery/gallery.php:1406
+#: modules/elements/gallery/gallery.php:2653
+#: modules/elements/gallery/gallery.php:2840
+msgid "Padding"
+msgstr ""
+
+#: modules/elements/chart/chart.php:576
+msgid "Legend"
+msgstr ""
+
+#: modules/elements/chart/chart.php:641
+msgid "Box Width"
+msgstr ""
+
+#: modules/elements/chart/chart.php:654 modules/elements/chart/chart.php:819
+msgid "Position"
+msgstr ""
+
+#: modules/elements/chart/chart.php:659 modules/elements/chart/chart.php:824
+#: modules/elements/gallery/gallery.php:172
+#: modules/elements/gallery/gallery.php:2029
+#: modules/elements/gallery/gallery.php:2062
+#: modules/elements/gallery/gallery.php:2535
+msgid "Left"
+msgstr ""
+
+#: modules/elements/chart/chart.php:663 modules/elements/chart/chart.php:828
+#: modules/elements/gallery/gallery.php:198
+#: modules/elements/gallery/gallery.php:2160
+#: modules/sticky-content/extend-controls.php:28
+#: modules/sticky-content/module.php:41
+msgid "Top"
+msgstr ""
+
+#: modules/elements/chart/chart.php:667 modules/elements/chart/chart.php:832
+#: modules/elements/gallery/gallery.php:206
+#: modules/elements/gallery/gallery.php:2267
+#: modules/elements/gallery/gallery.php:2505
+#: modules/sticky-content/extend-controls.php:29
+#: modules/sticky-content/module.php:42
+msgid "Bottom"
+msgstr ""
+
+#: modules/elements/chart/chart.php:671 modules/elements/chart/chart.php:836
+#: modules/elements/gallery/gallery.php:180
+#: modules/elements/gallery/gallery.php:2041
+#: modules/elements/gallery/gallery.php:2070
+msgid "Right"
+msgstr ""
+
+#: modules/elements/chart/chart.php:684
+msgid "Tooltip"
+msgstr ""
+
+#: modules/elements/chart/chart.php:702
+msgid "Title Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:711
+msgid "Title Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:724
+msgid "Title Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:738
+msgid "Body Font Color"
+msgstr ""
+
+#: modules/elements/chart/chart.php:747
+msgid "Body Font Size"
+msgstr ""
+
+#: modules/elements/chart/chart.php:760
+msgid "Body Font Style"
+msgstr ""
+
+#: modules/elements/chart/chart.php:858
+msgid "Line Height"
+msgstr ""
+
+#: modules/elements/chart/chart.php:874
+#: modules/elements/parallax/section-controls.php:303
+#: modules/elements/parallax/widget-controls.php:57
+msgid "Animation"
+msgstr ""
+
+#: modules/elements/chart/chart.php:882
+msgid "Duration"
+msgstr ""
+
+#: modules/elements/chart/chart.php:895 modules/elements/gallery/gallery.php:90
+msgid "Style"
+msgstr ""
+
+#: modules/elements/custom-css/init.php:43
+msgid "Inzox Custom CSS"
+msgstr ""
+
+#: modules/elements/custom-css/init.php:51
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: modules/elements/custom-css/init.php:60
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/elements/custom-css/init.php:71
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:21
+msgid "Inzox Gallery"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:39
+msgid "Gallery Content"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:47
+msgid "Filter Label"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:57
+msgid "Add Images"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:82
+#: modules/elements/gallery/gallery.php:314
+msgid "Layout"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:94
+msgid "Grid"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:95
+msgid "Masonry"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:104
+msgid "Columns"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:123
+msgid "Image Aspect Ratio"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:152
+msgid "Settings"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:159
+msgid "\"All\" Filter Label"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:161
+msgid "All"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:168
+msgid "Content Alignment"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:176
+#: modules/elements/gallery/gallery.php:202
+#: modules/elements/gallery/gallery.php:2033
+#: modules/elements/gallery/gallery.php:2066
+msgid "Center"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:194
+msgid "Alignment"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:219
+msgid "Show Caption"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:221
+#: modules/elements/gallery/gallery.php:233
+#: modules/elements/gallery/gallery.php:246
+#: modules/elements/gallery/gallery.php:258
+#: modules/elements/gallery/gallery.php:929
+#: modules/elements/gallery/gallery.php:1823
+#: modules/elements/gallery/gallery.php:2085
+#: modules/elements/gallery/gallery.php:2328
+#: modules/elements/parallax/section-controls.php:25
+#: modules/elements/parallax/section-controls.php:52
+msgid "Show"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:222
+#: modules/elements/gallery/gallery.php:234
+#: modules/elements/gallery/gallery.php:247
+#: modules/elements/gallery/gallery.php:259
+#: modules/elements/gallery/gallery.php:930
+#: modules/elements/gallery/gallery.php:1824
+#: modules/elements/gallery/gallery.php:2086
+#: modules/elements/gallery/gallery.php:2329
+#: modules/elements/parallax/section-controls.php:26
+#: modules/elements/parallax/section-controls.php:53
+msgid "Hide"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:231
+msgid "Show Description"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:244
+msgid "Show Filter Label"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:256
+msgid "Show Lightbox"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:268
+msgid "Lightbox Icon"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:284
+msgid "Show Image Slideshow"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:286
+msgid "True"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:287
+msgid "Flase"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:299
+msgid "Ordering"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:303
+#: modules/elements/gallery/gallery.php:1995
+msgid "Default"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:304
+msgid "Random"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:321
+msgid "Columns Gap"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:348
+msgid "Rows Gap"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:368
+msgid "Content Padding"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:385
+msgid "Thumbnails"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:393
+#: modules/elements/gallery/gallery.php:1083
+#: modules/elements/gallery/gallery.php:1273
+#: modules/elements/gallery/gallery.php:1462
+#: modules/elements/gallery/gallery.php:1619
+#: modules/elements/gallery/gallery.php:2641
+#: modules/elements/gallery/gallery.php:2801
+msgid "Border Radius"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:415
+#: modules/elements/gallery/gallery.php:442
+#: modules/elements/gallery/gallery.php:1105
+#: modules/elements/gallery/gallery.php:1169
+#: modules/elements/gallery/gallery.php:1295
+#: modules/elements/gallery/gallery.php:1358
+#: modules/elements/gallery/gallery.php:1484
+#: modules/elements/gallery/gallery.php:1547
+#: modules/elements/gallery/gallery.php:2817
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:424
+#: modules/elements/gallery/gallery.php:451
+#: modules/elements/gallery/gallery.php:1073
+#: modules/elements/gallery/gallery.php:1263
+#: modules/elements/gallery/gallery.php:1452
+#: modules/elements/gallery/gallery.php:1609
+#: modules/elements/gallery/gallery.php:2631
+#: modules/elements/gallery/gallery.php:2829
+msgid "Border"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:468
+#: modules/elements/gallery/gallery.php:500
+#: modules/elements/gallery/gallery.php:673
+#: modules/elements/gallery/gallery.php:1653
+#: modules/elements/gallery/gallery.php:1769
+#: modules/elements/parallax/section-controls.php:336
+msgid "Opacity"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:469
+#: modules/elements/gallery/gallery.php:525
+#: modules/elements/gallery/gallery.php:551
+#: modules/elements/gallery/gallery.php:699
+#: modules/elements/gallery/gallery.php:724
+#: modules/elements/gallery/gallery.php:883
+#: modules/elements/gallery/gallery.php:1877
+#: modules/elements/gallery/gallery.php:1948
+#: modules/elements/parallax/widget-controls.php:368
+msgid "Scale"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:470
+#: modules/elements/gallery/gallery.php:578
+#: modules/elements/gallery/gallery.php:751
+#: modules/elements/parallax/section-controls.php:197
+#: modules/elements/parallax/widget-controls.php:265
+msgid "Rotate"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:471
+#: modules/elements/gallery/gallery.php:604
+#: modules/elements/gallery/gallery.php:777
+#: modules/elements/parallax/section-controls.php:221
+msgid "Blur"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:472
+#: modules/elements/gallery/gallery.php:635
+#: modules/elements/gallery/gallery.php:808
+msgid "Gray Scale"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:478
+msgid "Image Filter"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:837
+#: modules/elements/parallax/widget-controls.php:31
+msgid "Tilt"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:846
+msgid "Axis"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:850
+msgid "Both"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:851
+msgid "X Axis"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:852
+msgid "Y Axis"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:863
+msgid "Amount"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:904
+msgid "Depth"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:927
+msgid "Show Glare"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:942
+msgid "Perspective"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:965
+#: modules/elements/gallery/gallery.php:2098
+#: modules/elements/gallery/gallery.php:2205
+#: modules/elements/gallery/gallery.php:2358
+#: modules/elements/gallery/gallery.php:2445
+#: modules/elements/parallax/section-controls.php:147
+msgid "Width"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:995
+msgid "Caption"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1007
+#: modules/elements/gallery/gallery.php:1197
+#: modules/elements/gallery/gallery.php:1386
+#: modules/elements/gallery/gallery.php:2598
+#: modules/elements/gallery/gallery.php:2689
+msgid "Typography"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1015
+#: modules/elements/gallery/gallery.php:1205
+#: modules/elements/gallery/gallery.php:1394
+msgid "Margin"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1060
+#: modules/elements/gallery/gallery.php:1135
+#: modules/elements/gallery/gallery.php:1250
+#: modules/elements/gallery/gallery.php:1324
+#: modules/elements/gallery/gallery.php:1439
+#: modules/elements/gallery/gallery.php:1513
+msgid "Text Color"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1096
+#: modules/elements/gallery/gallery.php:1160
+#: modules/elements/gallery/gallery.php:1286
+#: modules/elements/gallery/gallery.php:1349
+#: modules/elements/gallery/gallery.php:1475
+#: modules/elements/gallery/gallery.php:1538
+msgid "Text Shadow"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1185
+msgid "Description"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1563
+msgid "Link Icon"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1583
+#: modules/elements/gallery/gallery.php:1732
+#: modules/elements/gallery/gallery.php:1814
+#: modules/elements/gallery/gallery.php:2606
+#: modules/elements/gallery/gallery.php:2705
+#: modules/elements/parallax/section-controls.php:133
+msgid "Color"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1631
+msgid "Icon Size"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1671
+msgid "Size"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1796
+#: modules/elements/gallery/gallery.php:1805
+msgid "Overlay"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1803
+msgid "Multiply"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1804
+msgid "Screen"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1806
+msgid "Darken"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1807
+msgid "Lighten"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1808
+msgid "Color-dodge"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1809
+msgid "Color-burn"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1810
+msgid "Difference"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1811
+msgid "Exclusion"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1812
+msgid "hue"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1813
+msgid "Saturation"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1815
+msgid "Luminosity"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1821
+msgid "Show Overlay"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1845
+#: modules/elements/gallery/gallery.php:1916
+msgid "Blend Mode"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1984
+msgid "Filter"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1991
+msgid "Filter Style"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1996
+msgid "Style One"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1997
+msgid "Style Two"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1998
+msgid "Style Three"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:1999
+msgid "Style Four"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2000
+msgid "Style Five"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2001
+msgid "Style Six"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2002
+msgid "Style Seven"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2003
+msgid "Style Eight"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2004
+msgid "Style Nine"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2005
+msgid "Style Ten"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2013
+msgid "Nav Fill"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2015
+msgid "Yes"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2016
+msgid "No"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2025
+msgid "Filter Items Alignment"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2037
+msgid "Justify"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2058
+msgid "Filter Alignment"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2083
+msgid "Show Caret"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2129
+#: modules/elements/gallery/gallery.php:2236
+#: modules/elements/gallery/gallery.php:2390
+#: modules/elements/gallery/gallery.php:2475
+msgid "Height"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2188
+#: modules/elements/gallery/gallery.php:2300
+#: modules/elements/gallery/gallery.php:2342
+#: modules/elements/gallery/gallery.php:2430
+#: modules/elements/gallery/gallery.php:2733
+#: modules/elements/gallery/gallery.php:2786
+msgid "Background"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2326
+msgid "Show Divider"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2565
+msgid "Nav Bottom Spacing"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2681
+msgid "Active"
+msgstr ""
+
+#: modules/elements/gallery/gallery.php:2773
+msgid "Container Style"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:16
+#: modules/elements/parallax/widget-controls.php:16
+msgid "ElementsKit Effects"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:23
+msgid "Background Image Parallax"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:33
+#: modules/elements/parallax/section-controls.php:409
+#: modules/elements/parallax/widget-controls.php:664
+msgid "Speed"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:49
+msgid "Multi Item Parallax"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:59
+#: modules/elements/parallax/widget-controls.php:23
+msgid "Effect Type"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:63
+msgid "Css Animation"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:64
+msgid "Mouse Move"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:65
+msgid "On Scroll"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:66
+msgid "Parallax Tilt"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:73
+msgid "Item source"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:95
+msgid "Choose Image"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:105
+msgid "Choose Shape"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:109
+msgid "Shape 1"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:110
+msgid "Shape 2"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:111
+msgid "Shape 3"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:112
+msgid "Shape 4"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:113
+msgid "Shape 5"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:114
+msgid "Shape 6"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:115
+msgid "Shape 7"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:116
+msgid "Shape 8"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:117
+msgid "Shape 9"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:118
+msgid "Shape 10"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:119
+msgid "Shape 11"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:120
+msgid "Shape 12"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:121
+msgid "Shape 13"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:122
+msgid "Shape 14"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:151
+msgid "Auto"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:152
+msgid "Custom"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:161
+msgid "Custom Width"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:248
+msgid "Position X (%)"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:275
+msgid "Position Y (%)"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:337
+msgid "Opacity will be (0-1), default value 1"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:353
+#: modules/elements/parallax/widget-controls.php:92
+msgid "Animation speed"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:372
+#: modules/elements/parallax/widget-controls.php:111
+msgid "Animation Iteration Count"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:376
+#: modules/elements/parallax/widget-controls.php:116
+msgid "Infinite"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:377
+#: modules/elements/parallax/widget-controls.php:117
+msgid "Unset"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:390
+#: modules/elements/parallax/widget-controls.php:131
+msgid "Animation Direction"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:395
+#: modules/elements/parallax/widget-controls.php:137
+msgid "Reverse"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:396
+#: modules/elements/parallax/widget-controls.php:138
+msgid "Alternate"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:422
+#: modules/elements/parallax/widget-controls.php:682
+msgid "Parallax style"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:426
+#: modules/elements/parallax/section-controls.php:516
+#: modules/elements/parallax/widget-controls.php:649
+#: modules/elements/parallax/widget-controls.php:688
+msgid "X axis"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:427
+#: modules/elements/parallax/section-controls.php:517
+#: modules/elements/parallax/widget-controls.php:650
+#: modules/elements/parallax/widget-controls.php:689
+msgid "Y axis"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:428
+#: modules/elements/parallax/widget-controls.php:690
+msgid "rotate"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:429
+#: modules/elements/parallax/widget-controls.php:691
+msgid "rotateX"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:430
+#: modules/elements/parallax/widget-controls.php:692
+msgid "rotateY"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:431
+#: modules/elements/parallax/widget-controls.php:693
+msgid "scale"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:432
+#: modules/elements/parallax/widget-controls.php:694
+msgid "scaleX"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:433
+#: modules/elements/parallax/widget-controls.php:695
+msgid "scaleY"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:442
+#: modules/elements/parallax/widget-controls.php:704
+msgid "Parallax Transition "
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:443
+#: modules/elements/parallax/widget-controls.php:705
+msgid ""
+"X, Y and Z Axis will be pixels, Rotate will be degrees (0-180), scale will "
+"be ratio"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:453
+#: modules/elements/parallax/widget-controls.php:717
+msgid "Smoothness"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:454
+#: modules/elements/parallax/widget-controls.php:718
+msgid ""
+"factor that slowdown the animation, the more the smoothier (default: 700)"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:467
+#: modules/elements/parallax/widget-controls.php:733
+msgid "Offset Top"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:468
+#: modules/elements/parallax/section-controls.php:479
+#: modules/elements/parallax/widget-controls.php:736
+#: modules/elements/parallax/widget-controls.php:749
+msgid "default: 0; when the element is visible"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:478
+#: modules/elements/parallax/widget-controls.php:746
+msgid "Offset Bottom"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:489
+#: modules/elements/parallax/widget-controls.php:613
+msgid "MaxTilt"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:499
+#: modules/elements/parallax/widget-controls.php:625
+msgid "Image Scale"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:500
+#: modules/elements/parallax/widget-controls.php:626
+msgid "2 = 200%, 1.5 = 150%, etc.. Default 1"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:510
+#: modules/elements/parallax/widget-controls.php:641
+msgid "Disable Axis"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:511
+#: modules/elements/parallax/widget-controls.php:642
+msgid "What axis should be disabled. Can be X or Y."
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:515
+#: modules/elements/parallax/widget-controls.php:29
+#: modules/elements/parallax/widget-controls.php:648
+#: modules/sticky-content/extend-controls.php:27
+#: modules/sticky-content/module.php:40
+msgid "None"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:527
+msgid "Z-index"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:529
+msgid "2"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:538
+msgid "Parallax"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:553
+msgid "Section Overflow"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:557
+msgid "Visible"
+msgstr ""
+
+#: modules/elements/parallax/section-controls.php:558
+msgid "Hidden"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:30
+msgid "CSS3"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:32
+msgid "On scroll"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:33
+msgid "On mouse move"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:44
+msgid "CSS Animation"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:46
+#: modules/elements/parallax/widget-controls.php:597
+msgid "On"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:48
+#: modules/elements/parallax/widget-controls.php:598
+msgid "Off"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:169
+msgid "CSS Transform"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:182
+msgid "Translate"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:198
+msgid "Translate X"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:219
+msgid "Translate Y"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:280
+msgid "Rotate Z"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:324
+msgid "Rotate X"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:345
+msgid "Rotate Y"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:384
+msgid "Scale X"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:409
+msgid "Scale Y"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:477
+msgid "Skew"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:493
+msgid "Skew X"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:514
+msgid "Skew Y"
+msgstr ""
+
+#: modules/elements/parallax/widget-controls.php:594
+msgid "Disable animation in editor "
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:16
+msgid "Sticky Effect"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:24
+#: modules/sticky-content/module.php:37
+msgid "Sticky"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:39
+#: modules/sticky-content/module.php:52
+msgid "Sticky On"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:45
+#: modules/sticky-content/module.php:58
+msgid "Desktop"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:46
+#: modules/sticky-content/module.php:59
+msgid "Tablet"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:60
+msgid "Sticky Offset"
+msgstr ""
+
+#: modules/sticky-content/extend-controls.php:78
+msgid "Effect Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:29
+msgid "Scrolling Effect"
+msgstr ""
+
+#: modules/sticky-content/module.php:73
+msgid "Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:90
+msgid "Effects Offset"
+msgstr ""
+
+#: modules/sticky-content/module.php:108
+msgid "Stay In Column"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Inzox Essentials"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a required plugin for Inzox theme."
+msgstr ""

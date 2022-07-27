@@ -1,0 +1,12 @@
+.elementor-8771 .elementor-element.elementor-element-c3de8d1{overflow:visible;}.elementor-8771 .elementor-element.elementor-element-26eba4e .elementor-spacer-inner{height:25px;}.elementor-8771 .elementor-element.elementor-element-25f5239{overflow:visible;}.elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title, .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title:before, .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title:after, .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-content, .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tabs-content-wrapper{border-width:1px;}.elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-desktop-title.elementor-active{background-color:#309ECB;}.elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tabs-content-wrapper{background-color:#309ECB;}.elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title, .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title a{color:#000000;}.elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title.elementor-active,
+					 .elementor-8771 .elementor-element.elementor-element-4bb2180 .elementor-tab-title.elementor-active a{color:#FFFFFF;}.elementor-8771 .elementor-element.elementor-element-33fad8a{overflow:visible;}/* Start custom CSS for tabs, class: .elementor-element-4bb2180 */.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:before{    border: none;}
+.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active:after{    border: none;}
+.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title.elementor-active {
+    border-bottom-style: solid;
+    background: #309ecb;
+}
+.elementor-widget-tabs.elementor-tabs-view-horizontal .elementor-tab-desktop-title {
+    background: #f2f2f2;
+    margin-left: 5px;
+    border-radius: 5px;
+}/* End custom CSS */
